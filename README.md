@@ -37,4 +37,4 @@ Atualmente, estamos concluindo a parte do back-end utilizando Java com Spring Bo
 
 Equipe
 
-O projeto foi desenvolvido por [Seu Nome] e outros membros da equipe, que trabalharam colaborativamente na estruturação, design e desenvolvimento da aplicação.
+O projeto foi desenvolvido por Gabriel virginio campos e outros membros da equipe como Lukas, edimilson, Arthur,henrique e Jonathan que trabalharam colaborativamente na estruturação, design e desenvolvimento da aplicação.
