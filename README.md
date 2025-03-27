@@ -36,11 +36,13 @@ Atualmente, estamos concluindo a parte do back-end utilizando Java com Spring Bo
 
 👥 Equipe
 
-O projeto foi desenvolvido por Gabriel Virginio Campos e outros membros da equipe:
+O projeto foi desenvolvido pelos membros da equipe:
+
+🎯 Gabriel
 
 🎯 Lukas
 
-🎯 Edimilson
+🎯 Edmilson
 
 🎯 Arthur
 
